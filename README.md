@@ -1,5 +1,3 @@
-# MONICAVOTINGSYSTEM
-Made by Monica, for 3I's purposes
+# VOTING-SYSTEM
+made in Vb .NET
 
-## goodluck kaya nim in
-## pagmata na
